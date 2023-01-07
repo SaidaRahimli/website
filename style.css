@@ -1,0 +1,39 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+ @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@200;300;400;500;700;800&family=Roboto:wght@300;400;700&display=swap'); 
+
+body {
+    overflow: hidden;
+}
+
+.navbar-nav{
+margin-left: auto;
+font-size: 20px;
+font-weight: 500;
+color: #000;
+padding-right: 50px;
+}
+
+.container .text-center{
+  text-align: justify;
+  position: absolute;
+   
+}
+
+
+  .download {
+    background: #FF6464;
+    border-radius: 2px;
+    color: #fff;
+   font-weight: 500;
+    font-size: 15px;
+    padding: 8px;
+    text-decoration: none;
+  }
+
+  .title{
+    display: flex;
+    justify-content: space-around;
+  }
